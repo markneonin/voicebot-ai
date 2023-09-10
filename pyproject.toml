@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "voicebot-AI"
+name = "voicebot-ai"
 version = "0.1.0"
 description = ""
 authors = ["markneonin <oninivan@gmail.com>"]
@@ -7,7 +7,10 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-
+openai = "^0.28.0"
+httpx = "^0.24.1"
+aiohttp = "^3.8.5"
+aiofiles = "^23.2.1"
 
 [build-system]
 requires = ["poetry-core"]

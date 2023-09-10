@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "voicerobotai"
+name = "voicebot-AI"
 version = "0.1.0"
 description = ""
 authors = ["markneonin <oninivan@gmail.com>"]
